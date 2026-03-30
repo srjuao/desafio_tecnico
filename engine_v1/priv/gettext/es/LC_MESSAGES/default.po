@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+
+msgid "Log in to account"
+msgstr "Acceder a la cuenta"
+
+msgid "Email"
+msgstr "Correo electrónico"
+
+msgid "Password"
+msgstr "Contraseña"
+
+msgid "Log in"
+msgstr "Iniciar sesión"
+
+msgid "Invalid email or password"
+msgstr "Correo o contraseña inválidos"
+
+msgid "Remember me"
+msgstr "Recuérdame"
+
+msgid "Forgot your password?"
+msgstr "¿Olvidaste tu contraseña?"
+
+msgid "Control Center"
+msgstr "Centro de Control"
+
+msgid "Real-time Monitoring"
+msgstr "Monitoreo en Tiempo Real"
+
+msgid "Total nodes"
+msgstr "Total de nodos"
+
+msgid "Operating"
+msgstr "Operando"
+
+msgid "Alarm"
+msgstr "Alarma"
+
+msgid "Critical"
+msgstr "Crítico"
+
+msgid "Active sensors"
+msgstr "Sensores activos"
+
+msgid "Register for an account"
+msgstr "Crear una nueva cuenta"
+
+msgid "Already registered?"
+msgstr "¿Ya estás registrado?"
+
+msgid "Create an account"
+msgstr "Crear cuenta"
+
+msgid "Log out"
+msgstr "Salir"

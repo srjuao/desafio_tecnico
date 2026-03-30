@@ -1,0 +1,15 @@
+# .dockerignore
+/_build
+/deps
+/.elixir_make_cache
+/mix_home
+/hex_home
+/deps_data
+/build_data
+/tmp
+/*.db
+/*.db-shm
+/*.db-wal
+/assets/node_modules
+.git
+.gitignore
